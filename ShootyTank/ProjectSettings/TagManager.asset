@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - goodBullet
+  - badBullet
+  - enemy
+  - floor
+  - laser
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: floor
+    uniqueID: 3567080875
+    locked: 0
+  - name: enemy
+    uniqueID: 2015027141
+    locked: 0
+  - name: player
+    uniqueID: 3816560939
+    locked: 0
+  - name: gun
+    uniqueID: 3594498789
+    locked: 0
+  - name: explosion
+    uniqueID: 1767768711
+    locked: 0
+  - name: bullet
+    uniqueID: 608258729
+    locked: 0
